@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_Product_Dogs,Chrome 129.0.0.0,,,28-09-2024 14:27:04,28-09-2024 14:27:15,11.164s,PASSED
+,,,,,,,
+Test Cases/TC_Product_Dogs,Chrome 129.0.0.0,,Regression,28-09-2024 14:27:04,28-09-2024 14:27:15,10.639s,PASSED
+"openBrowser("""")",Chrome 129.0.0.0,,,28-09-2024 14:27:05,28-09-2024 14:27:09,4.506s,PASSED
+"navigateToUrl(""https://petstore.octoperf.com/"")",Chrome 129.0.0.0,,,28-09-2024 14:27:09,28-09-2024 14:27:10,0.838s,PASSED
+"click(findTestObject(""Object Repository/TC_Product_Dogs/Page_JPetStore Demo/a_Enter the Store""))",Chrome 129.0.0.0,,,28-09-2024 14:27:10,28-09-2024 14:27:12,1.634s,PASSED
+"click(findTestObject(""Object Repository/TC_Product_Dogs/Page_JPetStore Demo/img""))",Chrome 129.0.0.0,,,28-09-2024 14:27:12,28-09-2024 14:27:12,0.816s,PASSED
+"click(findTestObject(""Object Repository/TC_Product_Dogs/Page_JPetStore Demo/a_K9-PO-02""))",Chrome 129.0.0.0,,,28-09-2024 14:27:12,28-09-2024 14:27:13,1.013s,PASSED
+"click(findTestObject(""Object Repository/TC_Product_Dogs/Page_JPetStore Demo/a_Return to DOGS""))",Chrome 129.0.0.0,,,28-09-2024 14:27:13,28-09-2024 14:27:14,0.753s,PASSED
+closeBrowser(),Chrome 129.0.0.0,,,28-09-2024 14:27:14,28-09-2024 14:27:15,0.506s,PASSED
